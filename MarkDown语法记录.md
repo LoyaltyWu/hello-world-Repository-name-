@@ -78,9 +78,14 @@ Example:
 斜体的语法是：
 在要斜体的语句的最开始前面加上下划线
 再在最后一句的末尾（不要换行）加上下划线
+如果要换行的话就要结束当前斜体句（末尾加上一个下划线）再在下一行又重新开始一样的语法。
 
 Example:
-_It is kind of boring?
+
+_Is it kind of boring?
+I have no idea._
+
+_Is it kind of boring?_
 _I have no idea._
 
 ### 加粗
@@ -88,8 +93,13 @@ _I have no idea._
 加粗的语法是：
 在要加粗的语句最开始前面加上两个*号
 再在最后一句的末尾（不要换行）加上两个*号
+如果要换行的话就要结束当前加粗句（末尾加上两个*号）再在下一行又重新开始一样的语法。
 （和斜体很像）
 
 Example:
+
 **Maybe it is not boring but neccary I think.
-*It is said that `don't get confused and do something.`**
+It is said that `don't get confused and do something.`**
+
+**Maybe it is not boring but neccary I think.**
+**It is said that `don't get confused and do something.`**
