@@ -1,5 +1,5 @@
 这是一个关于MarkDown的语法记录
-包括标题、菜单、插入图片、链接、文字高亮、还有_斜体_、**加粗**、 > 引用、还有打勾勾 - []
+包括标题、菜单、插入图片、链接、文字高亮、还有_斜体_、**加粗**、 > 引用、还有CHECK BOX - []
 
 首先是引用
 引用的语法是：
@@ -101,14 +101,17 @@ Example:
 **Maybe it is not boring but neccary I think.
 It is said that `don't get confused and do something.`**
 
-###打勾勾
+###CHECK BOX
 
-打勾勾的语法是：
+CHECK BOX 打勾勾的语法是：
 横杠+空格+【+空格+】
 
 Example:
 - [ ] Got a cat. 
-- [.] Got a fat cat.
+- [ ] Got a fat cat.
+
+> 好像是comment的时候那个勾才能打上去的样子？？
+
 
 
 > 怎么说呢？怎么换行这么奇怪的呢？我试了几种都不行，最后用的就是像代码那段高亮的一样的方法来换的行，好奇怪，总觉得好像格多了一行的样子但是，不那样做又会整条连起来。
