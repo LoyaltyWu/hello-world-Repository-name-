@@ -47,13 +47,19 @@ Example:
 [Give Me A Star]()
 
 ### 高亮
-`HighLight\\n`
+用的是Esc下面的那个键‘`’
+`HighLight`
 
-`Include <iostream>\n`
-`using namespace std;\n`
-`int main()\n`
-`{\n`
-`cout << "Hello World!" << endl; \n`
-`return 0;\n`
-`}\n`
+`Include <iostream>`
 
+`using namespace std;`
+
+`int main()`
+
+`{`
+
+` cout << "Hello World!" << endl;`
+
+` return 0;`
+
+`}`
