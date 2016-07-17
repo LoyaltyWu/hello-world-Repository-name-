@@ -84,6 +84,7 @@ Example:
 
 _Is it kind of boring?
 I have no idea._
+
 _Is it kind of boring?_
 _I have no idea._
 
@@ -99,3 +100,6 @@ Example:
 
 **Maybe it is not boring but neccary I think.
 It is said that `don't get confused and do something.`**
+
+
+> 怎么说呢？怎么换行这么奇怪的呢？我试了几种都不行，最后用的就是像代码那段高亮的一样的方法来换的行，好奇怪，总觉得好像格多了一行的样子但是，不那样做又会整条连起来。
