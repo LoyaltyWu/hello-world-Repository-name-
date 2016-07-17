@@ -84,7 +84,6 @@ Example:
 
 _Is it kind of boring?
 I have no idea._
-
 _Is it kind of boring?_
 _I have no idea._
 
