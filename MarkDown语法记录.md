@@ -44,7 +44,7 @@ Example:
 '[Name](URL)'
 
 Example:
-[Give Me A Star]()
+[To Home.Give Me A Star](https://github.com/LoyaltyWu)
 
 ### 高亮
 用的是Esc下面的那个键那个小点点
