@@ -1,6 +1,15 @@
 这是一个关于MarkDown的语法记录
-包括标题、菜单、插入图片、链接、文字高亮
-首先是标题
+包括标题、菜单、插入图片、链接、文字高亮、还有_斜体_、**加粗**、还有 > 引用
+
+首先是引用
+引用的语法是：
+（空格加上一个>）（结尾要加一个回车就断掉这个引用了）
+
+Example：
+> 作者是入门的萌新
+还有很多地方不是很会。
+
+然后是标题
 
 第 i 标题的语法是（i个井号+一个空格+标题名称）
 
@@ -11,7 +20,7 @@ Example:
 ### 三级标题
 
 ### 菜单
-下面是菜单的语法：
+下面是菜单的语法是：
 有序的菜单的语法是（数字+.+空格）
 
 Example:
@@ -33,15 +42,15 @@ Example:
   
 ### 插入
 
-首先是插入图片的语法：
-'![Image](ImageURL)'
+首先是插入图片的语法是：
+`![Image](ImageURL)`
 
 Example:
 ![Image](https://raw.githubusercontent.com/LoyaltyWu/hello-world-Repository-name-/NewBranch_1/%E6%97%A0%E6%A0%87%E9%A2%98.jpg)
 
 
 然后是插入链接的语法：
-'[Name](URL)'
+`[Name](URL)`
 
 Example:
 [To Home.Give Me A Star](https://github.com/LoyaltyWu)
@@ -63,3 +72,24 @@ Example:
 ` return 0;`
 
 `}`
+
+### 斜体
+
+斜体的语法是：
+在要斜体的语句的最开始前面加上下划线
+再在最后一句的末尾（不要换行）加上下划线
+
+Example:
+_It is kind of boring?
+I have no idea._
+
+### 加粗
+
+加粗的语法是：
+在要加粗的语句最开始前面加上两个*号
+再在最后一句的末尾（不要换行）加上两个*号
+（和斜体很像）
+
+Example:
+**Maybe it is not boring but neccary I think.
+It is said that `don't get confused and do something.`**
