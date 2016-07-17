@@ -81,7 +81,7 @@ Example:
 
 Example:
 _It is kind of boring?
-I have no idea._
+_I have no idea._
 
 ### 加粗
 
@@ -92,4 +92,4 @@ I have no idea._
 
 Example:
 **Maybe it is not boring but neccary I think.
-It is said that `don't get confused and do something.`**
+*It is said that `don't get confused and do something.`**
