@@ -108,7 +108,7 @@ CHECK BOX 打勾勾的语法是：
 
 Example:
 - [ ] Got a cat. 
-- [] Got a fat cat.
+- [ ] Got a fat cat.
 
 > 好像是comment的时候那个勾才能打上去的样子？？
 
