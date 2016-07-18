@@ -85,9 +85,10 @@ int main ()
 
 Example:
 
-___果然呀，斜体的语法也是这样的
-
-哈哈？？___
+___
+果然呀，斜体的语法也是这样的
+哈哈？？
+___
 
 _Is it kind of boring?_
 _I have no idea._
@@ -101,10 +102,6 @@ _I have no idea._
 （和斜体很像）
 
 Example:
-
-**
-如果是对的话，加粗的语法有点麻烦呢。。2乘3。。6个*号
-**
 
 **Maybe it is not boring but neccary I think.
 It is said that `don't get confused and do something.`**
