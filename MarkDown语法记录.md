@@ -85,9 +85,9 @@ int main ()
 
 Example:
 
-_果然呀，斜体的语法也是这样的吧
-
-哈哈？？_
+_ 果然呀，斜体的语法也是这样的吧
+哈哈？？
+_
 
 _Is it kind of boring?_
 _I have no idea._
