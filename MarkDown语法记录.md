@@ -91,6 +91,8 @@ int main ()
 
 Example:
 
+_Lovely   
+Octocat_
 
 _Is it kind of boring?_
 _I have no idea._
@@ -120,13 +122,13 @@ Example:
 > 好像是comment的时候那个勾才能打上去的样子？？
 
 
-> 表格是我觉得 Markdown 比较累人的地方，例子如下：<
-> | Tables        | Are           | Cool  |
-> | ------------- |:-------------:| -----:|
-> | col 3 is      | right-aligned | $1600 |
-> | col 2 is      | centered      |   $12 |
-> | zebra stripes | are neat      |    $1 |
-> 这种语法生成的表格如下：
+> 表格是我觉得 Markdown 比较累人的地方，例子如下：   
+> | Tables        | Are           | Cool  |   
+> | ------------- |:-------------:| -----:|   
+> | col 3 is      | right-aligned | $1600 |   
+> | col 2 is      | centered      |   $12 |  
+> | zebra stripes | are neat      |    $1 |  
+> 这种语法生成的表格如下：  
 
 Example:
 
@@ -147,6 +149,7 @@ Example:
 如果像是引用、加粗、斜体什么的怎么换行呢？？    
 就是在每个要换行的句子末尾加上两个或以上的空格在换行即可  
 高亮的也是如此
-`  lovely  
-Octocat  
-`
+
+`Lovely     
+Octocat`
+
