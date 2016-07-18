@@ -91,10 +91,6 @@ int main ()
 
 Example:
 
-___
-果然呀，斜体的语法也是这样的
-哈哈？？
-___
 
 _Is it kind of boring?_
 _I have no idea._
@@ -123,6 +119,22 @@ Example:
 
 > 好像是comment的时候那个勾才能打上去的样子？？
 
+> 粗体与斜体
+Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就是粗体的语法，用一个 * 包含一段文本就是斜体的语法。
+例如：这里是粗体 这里是斜体
+表格
+表格是我觉得 Markdown 比较累人的地方，例子如下：
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+这种语法生成的表格如下：
+Tables 	Are 	Cool
+col 3 is 	right-aligned 	$1600
+col 2 is 	centered 	$12
+zebra stripes 	are neat 	$1
+附上简书链接
 
-
+[简书Te_Lee](http://www.jianshu.com/p/1e402922ee32/)
 > 怎么说呢？怎么换行这么奇怪的呢？代码的话就是连用3个\`就可以的呀
