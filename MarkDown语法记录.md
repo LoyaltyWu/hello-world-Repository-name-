@@ -6,7 +6,7 @@
 （空格加上一个>）（结尾要加一个回车就断掉这个引用了）
 
 Example：
-> 作者是入门的萌新
+> 作者是入门的萌新   
 还有很多地方不是很会。
 
 然后是标题
@@ -105,7 +105,7 @@ _I have no idea._
 
 Example:
 
-**Maybe it is not boring but neccary I think.
+**Maybe it is not boring but neccary I think.   
 It is said that `don't get confused and do something.`**
 
 ###CHECK BOX
