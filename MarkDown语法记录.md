@@ -121,16 +121,27 @@ Example:
 
 
 > 表格是我觉得 Markdown 比较累人的地方，例子如下：
+
 > | Tables        | Are           | Cool  |
+
 > | ------------- |:-------------:| -----:|
+
 > | col 3 is      | right-aligned | $1600 |
+
 > | col 2 is      | centered      |   $12 |
+
 > | zebra stripes | are neat      |    $1 |
+
 > 这种语法生成的表格如下：
+
 > Tables 	Are 	Cool
+
 > col 3 is 	right-aligned 	$1600
+
 > col 2 is 	centered 	$12
+
 > zebra stripes 	are neat 	$1
+
 > 附上简书链接
 
 [简书Te_Lee](http://www.jianshu.com/p/1e402922ee32/)
