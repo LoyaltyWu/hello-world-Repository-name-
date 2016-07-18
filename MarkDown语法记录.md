@@ -120,13 +120,13 @@ Example:
 > 好像是comment的时候那个勾才能打上去的样子？？
 
 
-> 表格是我觉得 Markdown 比较累人的地方，例子如下：\n
-| Tables        | Are           | Cool  |\n
-| ------------- |:-------------:| -----:|\n
-| col 3 is      | right-aligned | $1600 |\n
-| col 2 is      | centered      |   $12 |\n
-| zebra stripes | are neat      |    $1 |\n
-这种语法生成的表格如下：
+> 表格是我觉得 Markdown 比较累人的地方，例子如下：<
+> | Tables        | Are           | Cool  |
+> | ------------- |:-------------:| -----:|
+> | col 3 is      | right-aligned | $1600 |
+> | col 2 is      | centered      |   $12 |
+> | zebra stripes | are neat      |    $1 |
+> 这种语法生成的表格如下：
 
 Example:
 
@@ -139,7 +139,7 @@ Example:
 
 
 
-> 附上简书链接
+> 表格这部分是从Te_Lee那边引用过来的，附上简书链接
 
 [简书Te_Lee](http://www.jianshu.com/p/1e402922ee32/)
 > 怎么说呢？怎么换行这么奇怪的呢？代码的话就是连用3个\`就可以的呀
