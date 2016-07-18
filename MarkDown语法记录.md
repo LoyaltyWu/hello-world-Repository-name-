@@ -44,9 +44,15 @@ Example:
 
 首先是插入图片的语法是：
 `![Image](ImageURL)`
+`![Image](ImageURL"Opotional Title")`
 
 Example:
+
+
 ![Image](https://raw.githubusercontent.com/LoyaltyWu/hello-world-Repository-name-/NewBranch_1/%E6%97%A0%E6%A0%87%E9%A2%98.jpg)
+
+
+![Image](https://raw.githubusercontent.com/LoyaltyWu/hello-world-Repository-name-/NewBranch_1/%E6%97%A0%E6%A0%87%E9%A2%98.jpg "Android Studio")
 
 
 然后是插入链接的语法：
