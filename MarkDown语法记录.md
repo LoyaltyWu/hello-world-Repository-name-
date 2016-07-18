@@ -59,19 +59,22 @@ Example:
 用的是Esc下面的那个键那个小点点
 `HighLight`
 
-`Include <iostream>`
+```
+//HAHA
+//Finaylly find the proper way to highlight...........
+//开头位置用三个那个小点点！结尾也是。
+//那个斜体和粗体呢？我试试
+//C++
+#include <iostream>
 
-`using namespace std;`
+using namespace std;
 
-`int main()`
-
-`{`
-
-` cout << "Hello World!" << endl;`
-
-` return 0;`
-
-`}`
+int main ()
+{
+	cout << "Hello World!" << endl;
+	return 0;
+}
+```
 
 ### 斜体
 
@@ -82,8 +85,10 @@ Example:
 
 Example:
 
-_Is it kind of boring?
-I have no idea._
+___
+果然呀，斜体的语法也是这样的吧
+哈哈？？
+___
 
 _Is it kind of boring?_
 _I have no idea._
@@ -98,6 +103,10 @@ _I have no idea._
 
 Example:
 
+******
+如果是对的话，加粗的语法有点麻烦呢。。2乘3。。6个*号
+******
+
 **Maybe it is not boring but neccary I think.
 It is said that `don't get confused and do something.`**
 
@@ -108,7 +117,7 @@ CHECK BOX 打勾勾的语法是：
 
 Example:
 - [ ] Got a cat. 
-- [] Got a fat cat.
+- [ ] Got a fat cat.
 
 > 好像是comment的时候那个勾才能打上去的样子？？
 
