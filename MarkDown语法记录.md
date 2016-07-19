@@ -150,6 +150,6 @@ Example:
 就是在每个要换行的句子末尾加上两个或以上的空格在换行即可  
 高亮的也是如此
 
-`Lovely     
+`Lovely  
 Octocat`
 
