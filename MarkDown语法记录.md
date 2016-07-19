@@ -107,7 +107,7 @@ _I have no idea._
 
 Example:
 
-**Maybe it is not boring but neccary I think.   
+**Maybe it is not boring but necessary I think.   
 It is said that `don't get confused and do something.`**
 
 ###CHECK BOX
