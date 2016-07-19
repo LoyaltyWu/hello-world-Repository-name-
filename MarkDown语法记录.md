@@ -130,7 +130,7 @@ Example:
 
 **Maybe it is not boring but necessary I think.   
 It is said that `don't get confused and do something.`**
---Lovely cat--
+__Lovely cat__
 ###CHECK BOX
 
 CHECK BOX 打勾勾的语法是：
