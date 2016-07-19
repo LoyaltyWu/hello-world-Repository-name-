@@ -1,5 +1,5 @@
 这是一个关于MarkDown的语法记录
-包括标题、菜单、插入图片、链接、文字高亮、还有_斜体_、**加粗**、 > 引用、还有CHECK BOX - []
+包括标题、菜单、插入图片、链接、文字高亮、还有_斜体_、**加粗**、 > 引用、还有CHECK BOX - []、换行
 
 
 
@@ -167,10 +167,28 @@ Example:
 [简书Te_Lee](http://www.jianshu.com/p/1e402922ee32/)
 > 以下介绍换行的方法：   
 代码的话就是连用3个\`就可以的呀   
-如果像是引用、加粗、斜体什么的怎么换行呢？？    
-就是在每个要换行的句子末尾加上两个或以上的空格在换行即可  
-高亮的好像不行
+
+### 换行
+要在要换行的位置先加上两个或以上的空格再换行即可  
+高亮的好像不行  
+
+
+Example:  
 
 `Lovely  
 Octocat`
 
+```
+高亮的话以3个`的方式才可以换行
+貌似是这样子
+```
+
+Peanut is a kind of healthy food.  
+There are a lot of fun out there.  
+The octocat is so cute!  
+
+_Lovely  
+cat_
+
+**Lovely  
+octocat**
